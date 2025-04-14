@@ -25,5 +25,5 @@ A secure web application for storing sensitive data with military-grade encrypti
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/secure-vault-pro.git
-   cd secure-vault-pro
+   git clone https://github.com/GlitchPhantomX/Secure-Data-Ecryption.git
+   cd app.py
