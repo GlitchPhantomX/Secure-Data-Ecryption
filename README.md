@@ -1,7 +1,5 @@
 # 🔐 Secure Vault Pro - Encrypted Data Storage System
 
-![Project Banner](https://via.placeholder.com/800x200?text=Secure+Vault+Pro+AES-256+Encryption)
-
 A secure web application for storing sensitive data with military-grade encryption, built with Streamlit and Python.
 
 ## 🚀 Features
